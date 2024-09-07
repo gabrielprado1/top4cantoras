@@ -1,5 +1,6 @@
 
-#Desvendando as Rainhas do Pop: Meu Top 4!
+#Desvendando as Rainhas do Pop: Meu Top 4!#
+
 **Olá, futuro(a) desenvolvedor(a)! ** :cowboy_hat_face:
 
 Meu nome é Gabriel, e assim como você, estou dando os meus primeiros passos no mundo da programação!
