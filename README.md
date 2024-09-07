@@ -1,5 +1,5 @@
 
-#Desvendando as Rainhas do Pop: Meu Top 4!#
+#Desvendando as Rainhas do Pop: Meu Top 4!
 
 **Olá, futuro(a) desenvolvedor(a)! ** :cowboy_hat_face:
 
