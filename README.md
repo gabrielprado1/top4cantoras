@@ -10,7 +10,9 @@ Com 27 anos e uma paixão por música, decidi criar esse projeto HTML para celeb
 Por que esse projeto? :smiley:
 
 Desafio pessoal: Queria colocar em prática tudo o que aprendi até agora.
+
 Compartilhar a paixão: Acredito que a música une as pessoas, e quem sabe você não descobre uma nova artista para amar?
+
 Começar do zero: Esse projeto é a prova de que qualquer um pode criar algo incrível, mesmo começando do nada!
 
 O que você vai encontrar por aqui? :sunglasses:
