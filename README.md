@@ -2,9 +2,7 @@
 
 **Olá, futuro(a) desenvolvedor(a)!** :cowboy_hat_face:
 
-Meu nome é Gabriel, e assim como você, estou dando os meus primeiros passos no mundo da programação!
-
-Com 27 anos e uma paixão por música, decidi criar esse projeto HTML para celebrar minhas 4 cantoras favoritas do momento. ✨
+Meu nome é Gabriel, e com 27 anos e uma paixão por música, decidi criar esse projeto HTML para celebrar minhas 4 cantoras favoritas do momento ✨
 
 Por que esse projeto? :smiley:
 
@@ -20,7 +18,7 @@ Preparei um site simples e direto, com informações sobre cada uma das minhas c
 
 :love_letter: https://vocalistastop4-q5pw7tinj-gabrielprado1s-projects.vercel.app/ :love_letter:
 
-Sinta-se à vontade para explorar o projeto e me dar um feedback! Sua opinião é muito importante para mim.
+Sinta-se à vontade para explorar o projeto e me dar um feedback!
 
 Um grande abraço e até a próxima! :sparkling_heart:
 
